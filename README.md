@@ -26,6 +26,7 @@
 
 ![https://blog.rstudio.com/2018/02/06/tensorflow-for-r/](https://d33wubrfki0l68.cloudfront.net/6ee0c62c2c5a21ca5fec214c58e800a4cfe4e346/d8790/images/2018-02-06-keras-training-metrics.gif)
 
+https://d33wubrfki0l68.cloudfront.net/6ee0c62c2c5a21ca5fec214c58e800a4cfe4e346/d8790/images/2018-02-06-keras-training-metrics.gif
 
 * [R interface to Keras](https://keras.rstudio.com/), [TensorFlow for R](https://blogs.rstudio.com/tensorflow/)
 

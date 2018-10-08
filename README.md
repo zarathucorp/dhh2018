@@ -39,9 +39,9 @@
 
 * [예: 앱 자체 구현](https://stackoverflow.com/questions/41168459/r-shiny-user-authentication-for-single-app-r)
 
-![](https://i.stack.imgur.com/BUqXR.png)
+![](https://i.stack.imgur.com/BUqXR.png "https://stackoverflow.com/questions/41168459/r-shiny-user-authentication-for-single-app-r")
 
-![](https://i.stack.imgur.com/HuYu0.png)
+![](https://i.stack.imgur.com/HuYu0.png "https://stackoverflow.com/questions/41168459/r-shiny-user-authentication-for-single-app-r")
 
 
 ### 강민지
@@ -51,7 +51,7 @@
 * [D3 example](https://github.com/d3/d3/wiki/Gallery)
 
 
-![](https://d3js.org/preview.png)
+![](https://d3js.org/preview.png "https://github.com/d3/d3/wiki/Gallery")
 
 
 * [**r2d3** R package](https://rstudio.github.io/r2d3/articles/learning_d3.html)

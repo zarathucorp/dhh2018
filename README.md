@@ -41,7 +41,7 @@
 
 
 <video autoplay="true" controls="false" loop="true" width="600">
-    <source src="https://cdn.auth0.com/blog/shiny-server-2/running-webopt.mp4" type="video/mp4">
+    <source src="img/running-webopt.mp4" type="video/mp4">
 </video>
 
 

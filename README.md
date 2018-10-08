@@ -19,7 +19,7 @@
 * 딥러닝을 **Shiny app**으로 구현한 예시
 
 
-![https://blog.rstudio.com/2018/02/06/tensorflow-for-r/](img/2018-02-06-keras-training-metrics.gif "Logo Title Text 1")
+![](img/2018-02-06-keras-training-metrics.gif "https://blog.rstudio.com/2018/02/06/tensorflow-for-r/")
 
 
 
@@ -34,7 +34,7 @@
 * [예: 별개의 로그인 화면](https://auth0.com/blog/adding-authentication-to-shiny-server/)
 
 
-![https://auth0.com/blog/adding-authentication-to-shiny-server/](img/auth0.gif)
+![](img/auth0.gif "https://auth0.com/blog/adding-authentication-to-shiny-server/")
 
 
 * [예: 앱 자체 구현](https://stackoverflow.com/questions/41168459/r-shiny-user-authentication-for-single-app-r)

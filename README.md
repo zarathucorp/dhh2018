@@ -40,11 +40,7 @@
 * [예: 별개의 로그인 화면](https://auth0.com/blog/adding-authentication-to-shiny-server/)
 
 
-<video autoplay="true" controls="false" loop="true" width="600">
-    <source src="img/running-webopt.mp4" type="video/mp4">
-</video>
-
-
+![https://auth0.com/blog/adding-authentication-to-shiny-server/](img/auth0.gif)
 
 
 * [예: 앱 자체 구현](https://stackoverflow.com/questions/41168459/r-shiny-user-authentication-for-single-app-r)

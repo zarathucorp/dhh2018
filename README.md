@@ -51,7 +51,10 @@
 * [D3 example](https://github.com/d3/d3/wiki/Gallery)
 
 
-![](https://d3js.org/preview.png "https://github.com/d3/d3/wiki/Gallery")
+![](img/d3-js-tutorial-bar-chart-made-with-javascript-small.gif "https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/")
+
+![](img/d3chart1.gif "https://towardsdatascience.com/d3-js-the-custom-modular-bundle-now-bebd6f25bc8b")
+
 
 
 * [**r2d3** R package](https://rstudio.github.io/r2d3/articles/learning_d3.html)

@@ -24,7 +24,9 @@
 
 * 딥러닝을 **Shiny app**으로 구현한 예시
 
+
 ![](https://d33wubrfki0l68.cloudfront.net/6ee0c62c2c5a21ca5fec214c58e800a4cfe4e346/d8790/images/2018-02-06-keras-training-metrics.gif)
+
 
 * [R interface to Keras](https://keras.rstudio.com/), [TensorFlow for R](https://blogs.rstudio.com/tensorflow/)
 
@@ -36,9 +38,14 @@
 
 * [예: 별개의 로그인 화면](https://auth0.com/blog/adding-authentication-to-shiny-server/)
 
+{::nomarkdown}
+
 <video autoplay="true" controls="false" loop="true" width="600">
     <source src="https://cdn.auth0.com/blog/shiny-server-2/running-webopt.mp4" type="video/mp4">
 </video>
+
+{:/}
+
 
 
 * [예: 앱 자체 구현](https://stackoverflow.com/questions/41168459/r-shiny-user-authentication-for-single-app-r)

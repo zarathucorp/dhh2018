@@ -25,7 +25,7 @@
 * 딥러닝을 **Shiny app**으로 구현한 예시
 
 
-![aaa](https://d33wubrfki0l68.cloudfront.net/6ee0c62c2c5a21ca5fec214c58e800a4cfe4e346/d8790/images/2018-02-06-keras-training-metrics.gif)
+![https://blog.rstudio.com/2018/02/06/tensorflow-for-r/](img/2018-02-06-keras-training-metrics.gif)
 
 
 

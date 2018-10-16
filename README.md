@@ -1,5 +1,13 @@
 # dhh2018 회의록 
 
+[![GitHub issues](https://img.shields.io/github/issues/anpanmancorp/dhh2018.svg)](https://github.com/anpanmancorp/dhh2018/issues)
+[![GitHub forks](https://img.shields.io/github/forks/anpanmancorp/dhh2018.svg)](https://github.com/anpanmancorp/dhh2018/network)
+[![GitHub stars](https://img.shields.io/github/stars/anpanmancorp/dhh2018.svg)](https://github.com/anpanmancorp/dhh2018/stargazers)
+[![GitHub license](https://img.shields.io/github/license/anpanmancorp/dhh2018.svg)](https://github.com/anpanmancorp/dhh2018/blob/master/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/anpanmancorp/dhh2018)
+[![GitHub contributors](https://img.shields.io/github/contributors/anpanmancorp/dhh2018.svg?maxAge=2592000)](https://github.com/anpanmancorp/dhh2018/graphs/contributors)
+
+
 ## 18.10.09
 
 * [아이디어 제안서](presentation/anpanman_dhh2018.pptx) 제출 & 업로드 

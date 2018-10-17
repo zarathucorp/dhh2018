@@ -8,6 +8,11 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/anpanmancorp/dhh2018.svg?maxAge=2592000)](https://github.com/anpanmancorp/dhh2018/graphs/contributors)
 
 
+## 18.10.17
+
+* 전재형, 강민지 회의 참석 불가
+
+
 ## 18.10.09
 
 * [아이디어 제안서](presentation/anpanman_dhh2018.pptx) 제출 & 업로드 

@@ -8,6 +8,10 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/anpanmancorp/dhh2018.svg?maxAge=2592000)](https://github.com/anpanmancorp/dhh2018/graphs/contributors)
 
 
+## 18.10.19
+
+* 회의 취소
+
 ## 18.10.18
 
 * 멘토링 의견 확인 

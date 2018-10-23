@@ -7,6 +7,9 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/anpanmancorp/dhh2018)
 [![GitHub contributors](https://img.shields.io/github/contributors/anpanmancorp/dhh2018.svg?maxAge=2592000)](https://github.com/anpanmancorp/dhh2018/graphs/contributors)
 
+## 18.10.23
+
+* 이유진 - [로그인 기능](people/yjlee) 완료, 앱에 적용(http://147.47.68.165:2222/ps/) 
 
 ## 18.10.19
 

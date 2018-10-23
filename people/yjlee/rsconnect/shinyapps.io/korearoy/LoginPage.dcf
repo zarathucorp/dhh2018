@@ -1,0 +1,12 @@
+name: LoginPage
+title: LoginPage
+username:
+account: korearoy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 528065
+bundleId: 1655182
+url: https://korearoy.shinyapps.io/LoginPage/
+when: 1540196799.35934
+asMultiple: FALSE
+asStatic: FALSE

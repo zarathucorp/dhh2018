@@ -7,9 +7,24 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/anpanmancorp/dhh2018)
 [![GitHub contributors](https://img.shields.io/github/contributors/anpanmancorp/dhh2018.svg?maxAge=2592000)](https://github.com/anpanmancorp/dhh2018/graphs/contributors)
 
+
+## 18.10.28
+
+* 오전 9시 부스에 자리잡음. 시연용 모니터는 김재령 선생님 연구실에 있는 것을 활용.
+
+
+## 18.10.27
+
+![전재형 딥러닝 예제](docs/DL.gif),  
+
+* 강민지, 이유진 - [D3 exam](http://147.47.68.165:2222/D3exam/)
+
+* [발표 슬라이드](docs/anpanman_dhh18.html) 제출
+
+
 ## 18.10.23
 
-* 이유진 - [로그인 기능](people/yjlee) 완료, 앱에 적용(http://147.47.68.165:2222/ps/) 
+* 이유진 - [로그인 기능](people/yjlee) 완료, [앱에 적용](http://147.47.68.165:2222/ps/) 
 
 ## 18.10.19
 
